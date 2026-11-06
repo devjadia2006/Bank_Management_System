@@ -23,7 +23,7 @@ A simple Bank Management System built with **Python** and **Streamlit**, featuri
 
 ```text
 Bank-Management-System/
-├── bank_management_luxury_black_gold.py
+├── app.py
 ├── README.md
 └── requirements.txt
 ```
@@ -52,7 +52,7 @@ pip install -r requirements.txt
 4. Start the Streamlit application:
 
    ```bash
-   streamlit run bank_management_luxury_black_gold.py
+   python -m streamlit run app.py
    ```
 
 5. Streamlit will display a local URL in the terminal. Open that URL in your web browser.
